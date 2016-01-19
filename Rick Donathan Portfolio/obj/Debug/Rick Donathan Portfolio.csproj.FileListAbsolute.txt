@@ -1,0 +1,66 @@
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\ApplicationInsights.config
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\roslyn\csc.exe
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\roslyn\System.Collections.Immutable.dll
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\roslyn\vbc.exe
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\roslyn\VBCSCompiler.exe
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\roslyn\VBCSCompiler.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\Rick Donathan Portfolio.dll.config
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\Rick Donathan Portfolio.dll
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\Rick Donathan Portfolio.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\Microsoft.AI.Web.dll
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\Microsoft.AI.WindowsServer.dll
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\Microsoft.ApplicationInsights.dll
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\Microsoft.AI.Web.xml
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\Microsoft.AI.WindowsServer.xml
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\Microsoft.ApplicationInsights.xml
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\obj\Debug\Rick Donathan Portfolio.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\obj\Debug\Rick Donathan Portfolio.dll
+c:\users\admin\documents\visual studio 2015\Projects\Rick Donathan Portfolio\Rick Donathan Portfolio\obj\Debug\Rick Donathan Portfolio.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\ApplicationInsights.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\roslyn\csc.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\roslyn\vbc.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\Rick Donathan Portfolio.dll.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\Rick Donathan Portfolio.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\Rick Donathan Portfolio.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\obj\Debug\Rick Donathan Portfolio.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\obj\Debug\Rick Donathan Portfolio.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Rick-Donathan-Portfolio\Rick Donathan Portfolio\obj\Debug\Rick Donathan Portfolio.pdb
