@@ -94,6 +94,11 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="img\Car Finder.png" />
+    <Content Include="img\portfolio\Budget Planner.png" />
+    <Content Include="img\portfolio\Bug Tracker.png" />
+    <Content Include="img\portfolio\Car Finder.png" />
+    <Content Include="img\portfolio\Javascriptpic.jpg" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -135,7 +140,6 @@
     <Content Include="css\fonts\font-awesome\scss\_rotated-flipped.scss" />
     <Content Include="css\fonts\font-awesome\scss\_stacked.scss" />
     <Content Include="css\fonts\font-awesome\scss\_variables.scss" />
-    <Content Include="img\portfolio\JavaScipt Logo.psd" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

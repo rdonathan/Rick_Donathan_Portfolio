@@ -856,6 +856,10 @@ div.content-box div.content-box-info {
     padding-left: 135px;
 }
 
+.vertAlign{
+    margin-top:100px;
+
+}
 div.content-box.big {
     padding:15px;
     margin-top: 52px;
@@ -1007,7 +1011,9 @@ div.content-box.big div.content-box-info p {
 /*-------------------------------------------------------*/
 /* 11. Parallax Section
 /*-------------------------------------------------------*/
-
+.contactsPadding {
+padding-top:px;
+}
 
 .clients, .contacts, .about {
     position: static;
