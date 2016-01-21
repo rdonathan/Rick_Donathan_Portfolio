@@ -140,6 +140,7 @@
     <Content Include="css\fonts\font-awesome\scss\_rotated-flipped.scss" />
     <Content Include="css\fonts\font-awesome\scss\_stacked.scss" />
     <Content Include="css\fonts\font-awesome\scss\_variables.scss" />
+    <None Include="Properties\PublishProfiles\rickdonathan.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -222,16 +223,7 @@
     <Content Include="img\plx3.jpg" />
     <Content Include="img\plx4.jpg" />
     <Content Include="img\plx5.jpg" />
-    <Content Include="img\portfolio\portfolio1.jpg" />
-    <Content Include="img\portfolio\portfolio2.jpg" />
-    <Content Include="img\portfolio\portfolio3.jpg" />
     <Content Include="img\portfolio\portfolio31.jpg" />
-    <Content Include="img\portfolio\portfolio4.jpg" />
-    <Content Include="img\portfolio\portfolio5.jpg" />
-    <Content Include="img\portfolio\portfolio6.jpg" />
-    <Content Include="img\portfolio\portfolio7.jpg" />
-    <Content Include="img\portfolio\portfolio8.jpg" />
-    <Content Include="img\portfolio\portfolio9.jpg" />
     <Content Include="img\prettyPhoto\dark_rounded\btnNext.png" />
     <Content Include="img\prettyPhoto\dark_rounded\btnPrevious.png" />
     <Content Include="img\prettyPhoto\dark_rounded\contentPattern.png" />
@@ -285,7 +277,7 @@
     <Content Include="img\testimonial\team-member-3.jpg" />
     <Content Include="img\texture_layer.png" />
     <Content Include="img\texture_layer1.png" />
-    <Content Include="index-parallax-image.html" />
+    <Content Include="index.html" />
     <Content Include="js\appear.js" />
     <Content Include="js\bootstrap.js" />
     <Content Include="js\bootstrap.min.js" />
