@@ -16,18 +16,22 @@
       <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine" />
       <!-- Library CSS -->
       <link rel="stylesheet" href="css/bootstrap.css">
-      <link rel="stylesheet" href="css/bootstrap-theme.css">
+       <link rel="stylesheet" href="css/bootstrap-theme.css">
       <link rel="stylesheet" href="css/team-member.css" media="screen">
       <link rel="stylesheet" href="css/fonts/font-awesome/css/font-awesome.css">
       <link rel="stylesheet" href="css/animations.css" media="screen">
       <link rel="stylesheet" href="css/prettyPhoto.css" media="screen">
       <link rel="stylesheet" href="css/jquery.bxslider.css" media="screen">
+
+   
       <!-- Theme CSS -->
       <link rel="stylesheet" href="css/style.css">
       <link rel="stylesheet" href="css/global.css">
       <!-- Skin -->
       <link rel="stylesheet" href="css/colors/blue.css" class="colors">
-      
+    <link href="Content/SyntaxHighlighter/shCore.css" rel="stylesheet" />
+    <link href="Content/SyntaxHighlighter/shThemeDefault.css" rel="stylesheet" />
+
 
       <!-- Favicons -->
       <link rel="shortcut icon" href="img/ico/favicon.ico">
@@ -43,8 +47,42 @@
       <!--[if IE]>
       <link rel="stylesheet" href="css/ie.css">
       <![endif]-->
+    <!-- The Scripts -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery-migrate-1.0.0.js"></script>
+    <script src="js/jquery-ui.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+   
 
-
+    <script src="js/jquery.parallax.js"></script>
+    <script src="js/jquery.hparallax.js"></script>
+    <script src="js/jquery.wait.js"></script>
+    <script src="js/appear.js"></script>
+    <script src="js/fappear.js"></script>
+    <script src="js/modernizr-2.6.2.min.js"></script>
+    <script src="js/jquery.bxslider.min.js"></script>
+    <script src="js/jquery.maximage.js"></script>
+    <script src="js/jquery.cycle.all.js"></script>
+    <script src="js/jquery.prettyPhoto.js"></script>
+    <script src="js/jquery.sticky.js"></script>
+    <script src="js/jquery.isotope.js"></script>
+    <script src="js/imagesloaded.pkgd.min.js"></script>
+    <script src="js/jquery.countTo.js"></script>
+    <script src="js/skrollr.min.js"></script>
+    <script src="js/jquery.scrollTo.min.js"></script>
+    <script src="js/jquery.nav.js"></script>
+    <script src="js/wow.js"></script>
+    <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script src="js/jquery.gmap.min.js"></script>
+    <script src="js/jquery.mb.YTPlayer.js"></script>
+    <script src="js/tytabs.js"></script>
+    <script src="js/custom.js"></script>
+    <script src="scripts/SyntaxHighlighter/shCore.js"></script>
+    <script src="scripts/SyntaxHighlighter/shBrushJScript.js"></script>
+    <script src="js/FizzBuzz.js"></script>
+    <script src="js/Factorial.js"></script>
+    <script src="js/5numbers.js"></script>
+    <script src="js/Palindrome.js"></script>
 
 </head>
 <body data-spy="scroll" data-target="#navigation" data-offset="75">
@@ -543,7 +581,7 @@
                 
                       <ul class="clearfix">
                         <li><a id="all" href="#" data-filter="*" class="active"><h5>All</h5></a></li> 
-                        <li><a href="#" data-filter=".wordpress"><h5>JavaScript</h5></a></li>
+                        <li><a href="#" data-filter=".wordpress"><h5>Projects</h5></a></li>
                         <li><a href="#" data-filter=".jquery"><h5>Web Applications</h5></a></li>
                         <li><a href="#" data-filter=".php"><h5>Design</h5></a></li>
                         <li><a href="#" data-filter=".css"><h5>Branding</h5></a></li>
@@ -555,20 +593,87 @@
                   <!-- Portfolio Wrap -->  
                     <div id="portfolio-wrap">
                     
-<!-- JAVA SCRIPT FILES  --------------------------------------------->                 
+<!----------------------------------------------------------------------------JAVA SCRIPT FILES  --------------------------------------------->  
+<!----FIZZBUZZ------------------------------------------->             
                         <div class="portfolio-item one-four wordpress">
                               <div class="img-holder">
-                                    <img class="img-responsive" src="img/portfolio/Javascriptpic.jpg" alt="">
-                                    <div class="img-overlay"></div>
-                                    <div class="overlay-effect">
-                                        <span class="RoundBg"><a data-gal="prettyPhoto[galname]" href="img/portfolio/Javascriptpic.jpg"><i class="fa fa-search"></i></a>
-                                        </span>
-                                        <span class="RoundBg"><a href=""><i class="fa fa-link"></i></a>
-                                        </span>
-                                    </div>
-                                </div>
+                                  <!-- Trigger the modal with a button -->
+                                      <img class="img-responsive" src="img/portfolio/FizzBuzz.png" alt="">
+
+                                      <div class="img-overlay"></div>
+                                      <div class="overlay-effect">
+                                          <span class="RoundBg">
+                                              <a data-gal="prettyPhoto[galname]" href="img/portfolio/FizzBuzz.png"><i class="fa fa-search"></i></a>
+                                          </span>
+                                          <span class="RoundBg">
+                                              <a href="" data-toggle="modal" data-target="#fizzbuzz"><i class="fa fa-link"></i></a>
+                                          </span>
+                                      </div>
+                                  
+                               </div>
                         </div>
-                        <!-- /Portfolio Item With PrettyPhoto  -->       
+<!----FACTORIAL-------------------------------------------> 
+                         <div class="portfolio-item one-four wordpress">
+                              <div class="img-holder">
+                                  <!-- Trigger the modal with a button -->
+                                      <img class="img-responsive" src="img/portfolio/factorial.png" alt="">
+
+                                      <div class="img-overlay"></div>
+                                      <div class="overlay-effect">
+                                          <span class="RoundBg">
+                                              <a data-gal="prettyPhoto[galname]" href="img/portfolio/Factorial.png"><i class="fa fa-search"></i></a>
+                                          </span>
+                                          <span class="RoundBg">
+                                              <a href="" data-toggle="modal" data-target="#Factorial"><i class="fa fa-link"></i></a>
+                                          </span>
+                                      </div>
+                                  
+                               </div>
+                        </div>
+
+<!----PALINDROME------------------------------------------->
+                        <div class="portfolio-item one-four wordpress">
+                            <div class="img-holder">
+                                <!-- Trigger the modal with a button -->
+                                <img class="img-responsive" src="img/portfolio/Palindrome.png" alt="">
+
+                                <div class="img-overlay"></div>
+                                <div class="overlay-effect">
+                                    <span class="RoundBg">
+                                        <a data-gal="prettyPhoto[galname]" href="img/portfolio/Palindrome.png"><i class="fa fa-search"></i></a>
+                                    </span>
+                                    <span class="RoundBg">
+                                        <a href="" data-toggle="modal" data-target="#Palindrome"><i class="fa fa-link"></i></a>
+                                    </span>
+                                </div>
+
+                            </div>
+                        </div>
+
+
+<!----5 NUMBERS------------------------------------------->
+                        <div class="portfolio-item one-four wordpress">
+                            <div class="img-holder">
+                                <!-- Trigger the modal with a button -->
+                                <img class="img-responsive" src="img/portfolio/5numbers.png" alt="">
+
+                                <div class="img-overlay"></div>
+                                <div class="overlay-effect">
+                                    <span class="RoundBg">
+                                        <a data-gal="prettyPhoto[galname]" href="img/portfolio/5numbers.png"><i class="fa fa-search"></i></a>
+                                    </span>
+                                    <span class="RoundBg">
+                                        <a href="" data-toggle="modal" data-target="#5numbers"><i class="fa fa-link"></i></a>
+                                    </span>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <!-- /Portfolio Item With PrettyPhoto  -->   
+                        
+                        
+                        
                     
 <!-- Web Applications  --------------------------------------------->                 
 <!--CAR FINDER-->         <div class="portfolio-item one-four jquery">
@@ -1091,36 +1196,284 @@
             <!-- Section 7 -->
       <!-- /Warpper -->
 
+   
+    
+ <!-- Modal ----------------------------------------------------------------------------------->
 
 
-      <!-- The Scripts -->
-      <script src="js/jquery.min.js"></script>
-      <script src="js/jquery-migrate-1.0.0.js"></script>
-      <script src="js/jquery-ui.js"></script>
-      <script src="js/bootstrap.min.js"></script>
-      <script src="js/jquery.parallax.js"></script>
-      <script src="js/jquery.hparallax.js"></script>
-      <script src="js/jquery.wait.js"></script> 
-      <script src="js/appear.js"></script>
-      <script src="js/fappear.js"></script>  
-      <script src="js/modernizr-2.6.2.min.js"></script>
-      <script src="js/jquery.bxslider.min.js"></script>
-      <script src="js/jquery.maximage.js"></script>
-      <script src="js/jquery.cycle.all.js"></script>
-      <script src="js/jquery.prettyPhoto.js"></script>
-      <script src="js/jquery.sticky.js"></script>
-      <script src="js/jquery.isotope.js"></script>
-      <script src="js/imagesloaded.pkgd.min.js"></script>
-      <script src="js/jquery.countTo.js"></script>
-      <script src="js/skrollr.min.js"></script>
-      <script src="js/jquery.scrollTo.min.js"></script>
-      <script src="js/jquery.nav.js"></script>
-      <script src="js/wow.js"></script>
-      <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
-      <script src="js/jquery.gmap.min.js"></script>
-      <script src="js/jquery.mb.YTPlayer.js"></script>
-      <script src="js/tytabs.js"></script>
-      <script src="js/custom.js"></script>
-      
-</body>
+
+<!---FIZZBUZZ---------------------------------------------------------------------------------->
+    <div id="fizzbuzz" class="modal fade" role="dialog" style="align-self:center;">
+        <div class="modal-lg">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="sectionCenter">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">X</button>
+                    <h4 class="modal-title">Modal Header</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="col-md-6 col-xs-12">
+                        <h1>FIZZ BUZZ</h1>
+                        Enter 1st Number : <input type="number" id="num1" /><br />
+                        Enter 2nd Number : <input type="number" id="num2" /><br /><br />
+                        <p>Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".</p>
+                        <input type="button" id="fizz" value="Find Fizz Buzz" onclick="findFizz();" /> <br /><br />
+                        <div id="displayResult"></div>
+
+                    </div>
+                    <div class="col-md-6 col-xs-12">
+                        <pre class="brush:js">
+$(document).ready(function () {
+ $('#fizz').click(function () {             
+  var n1 = parseInt($('#num1').val());
+  var n2 = parseInt($('#num2').val());
+if (n1 >= n2)
+$('#displayResult').text('Number 1 should be 
+greater than Number 2').show();
+else {
+ var result = "";
+for (var i = n1; i <= n2; i++) {
+ if (i % 3 === 0) {
+ if (i % 5 === 0) {
+ result += "FizzBuzz";
+} else {
+ result += "Fizz ";
+} else if (i % 5 === 0) {
+ result += "Buzz ";
+} else {
+ result += (i + " ");
+}
+}
+ $('#displayResult').text(result).show();
+}
+});
+});
+
+                        </pre>
+                    </div>
+                          
+                </div>
+                <div class="clearfix"></div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+    </div>
+<!--END OF FIZZBUZZ----------------------------------------------------------------------------> 
+
+    
+<!--FACTORIAL NUMBERS-------------------------------------------------------------------------->  
+    <div id="Factorial" class="modal fade" role="dialog" style="align-self:center;">
+        <div class="modal-lg">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="sectionCenter">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">X</button>
+                        <h4 class="modal-title">Modal Header</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="col-md-6 col-xs-12">
+                            <h1> Factorial Magic </h1>
+                            <div>
+                                Enter a number to get the factorial number: <input type="number" id="fact"><br />
+                                <input type="button" value="Get Results" onclick="displayFact();" />
+
+                            </div>
+                             
+                            <div id="displayFactorial"></div>
+                            <br /><br />
+                        </div>
+                        <div class="col-md-6 col-xs-12">
+                            <pre class="brush:js">
+$(document).ready(function () {
+ $('#jQuary5').click(function () {
+  var input = parseInt($('#fact').val());
+  var answer = 1;
+for (var b = input; b >= 1; b--) {
+  answer = answer * b;
+}
+$('#show').text(answer).show();
+ });
+});
+                        </pre>
+                        </div>
+
+                    </div>
+                    <div class="clearfix"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+<!--END OF FACTORIAL NUMBERS------------------------------------------------------------------->
+
+
+<!---PALINDROME-------------------------------------------------------------------------------->
+    <div id="Palindrome" class="modal fade" role="dialog" style="align-self:center;">
+        <div class="modal-lg">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="sectionCenter">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">X</button>
+                        <h4 class="modal-title">Modal Header</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="col-md-6 col-xs-12">
+                            <h3>Palindrome</h3>
+                            <label>Enter a word to see if it's a Palidrome word</label><br />
+                            <p>A palindrome is a word, phrase, number, or other sequence <br />of characters which reads the same backward or forward.</p>
+                            <input type="text" id="userinput" />
+                            <input type="button" id="btnres" value="Results" onclick="palindrome();" />
+
+                            <p id="answer"></p>
+
+                            <div id="displayPalindrome"></div>
+                            <br /><br />
+                        </div>
+                        <div class="col-md-6 col-xs-12">
+                            <pre class="brush:js">
+$(document).ready(function () {
+ $('#btnres').click(function () {
+ var userInput = $('#userinput').val();
+ $('#answer').text("Please enter a word").show();
+if (userInput === "") {
+ $('#answer').text("Please enter a word").show();
+}else{
+ var backwards = "";
+for (var i = userInput.length - 1; i >= 0 ; i--) {
+ backwards += userInput[i];
+}
+if (userInput === backwards) {
+ $('#answer').text(userInput + " is a Palindrome").show();
+}else{
+ $('#answer').text(userInput + " is NOT a Palindrome").show();
+   }
+  }
+ });
+});
+                        </pre>
+                        </div>
+
+                    </div>
+                    <div class="clearfix"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+<!---END OF PALINDROME------------------------------------------------------------------------->
+
+
+<!---5 NUMBERS--------------------------------------------------------------------------------->
+    <div id="5numbers" class="modal fade" role="dialog" style="align-self:center;">
+        <div class="modal-lg">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="sectionCenter">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">X</button>
+                        <h4 class="modal-title">Modal Header</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="col-md-6 col-xs-12">
+                            <h3>PERFORMING ACTIONS WITH 5 NUMBERS</h3>
+                            <div>
+                                <label class="fivelabel">Enter your 1st Number:</label><input type="number" id="least" name="num1" /><br />
+                                <label class="fivelabel">Enter your 2nd Number:</label><input type="number" id="greatest" name="num2" /><br />
+                                <label class="fivelabel">Enter your 3rd Number:</label><input type="number" id="mean" name="num3" /><br />
+                                <label class="fivelabel">Enter your 4th Number:</label><input type="number" id="sum" name="num4" /><br />
+                                <label class="fivelabel">Enter your 5th Number:</label><input type="number" id="product" name="num5" /><br /><br />
+                                <input type="button" value="CLICK HERE TO GET THE RESULTS" onclick="least();" /><br /><br />
+
+                                <div>
+
+                                    <table id="fivenumtab">
+                                        <tr>
+                                            <td sstyle="line-height:30px;" class-"fivetd">Least</td>
+                                            <td class="fivetd">Greatest</td>
+                                            <td class="fivetd">Mean</td>
+                                            <td class="fivetd">Sum</td>
+                                            <td class="fivetd">Product</td>
+                                        </tr>
+                                        <tr>
+                                            <td id="least1" class="fivetd"></td>
+                                            <td id="greatest2" class="fivetd"></td>
+                                            <td id="mean3" class="fivetd"></td>
+                                            <td id="sum4" class="fivetd"></td>
+                                            <td id="product5" class="fivetd"></td>
+                                        </tr>
+
+                                    </table>
+
+
+                                </div>
+
+
+                                
+                            </div>
+
+                            <div id="display5numbers"></div>
+                            <br /><br />
+                        </div>
+                        <div class="col-md-6 col-xs-12">
+                            <pre class="brush:js">
+$(document).ready(function() {
+$('#jquary').click(function() {
+  var n1 = parseInt($('#input_1').val());
+  var n2 = parseInt($('#input_2').val());
+  var n3 = parseInt($('#input_3').val());
+  var n4 = parseInt($('#input_4').val());
+  var n5 = parseInt($('#input_5').val());
+  var numleast = Math.min(n1, n2, n3, n4, n5);
+  var nummax = Math.max(n1, n2, n3, n4, n5);
+  var numsum = n1 + n2 + n3 + n4 + n5;
+    var nummean = numsum / 5;
+    var numprod = n1 * n2 * n3 * n4 * n5;
+    $('#least1').text(numleast).show();
+    $('#greatest2').text(nummax).show();
+    $('#mean3').text(nummean).show();
+    $('#sum4').text(numsum).show();
+    $('#product5').text(numprod).show();
+  });
+});
+                        </pre>
+                        </div>
+
+                    </div>
+                    <div class="clearfix"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+<!---END OF 5 NUMBERS-------------------------------------------------------------------------->
+
+
+    <script type="text/javascript">
+        SyntaxHighlighter.all();
+    </script>  
+    </body>
 </html>
